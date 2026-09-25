@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/chip8_emu.dir/src/main.cpp.o CMakeFiles/chip8_emu.dir/src/chip8.cpp.o -o chip8_emu  _deps/raylib-build/raylib/libraylib.a -lm -lpthread /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so _deps/raylib-build/raylib/external/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 

@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/workspaces/chip-8/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/workspaces/chip-8/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/workspaces/chip-8/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
